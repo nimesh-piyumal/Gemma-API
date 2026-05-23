@@ -6,6 +6,14 @@ A free, OpenAI-compatible AI API powered by **Google Gemma 4 26B** running on **
 
 ---
 
+## 🚀 One-Click Deploy
+ 
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/nimesh-piyumal/Gemma-API)
+ 
+> Click the button above to instantly deploy your own instance to Cloudflare Workers — no local setup needed!
+
+---
+
 ## ✨ Features
 
 - 🆓 **Free to run** — powered by Cloudflare Workers AI free tier (10,000 neurons/day)
