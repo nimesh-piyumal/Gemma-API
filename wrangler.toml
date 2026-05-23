@@ -1,0 +1,6 @@
+name = "gemma-api"
+main = "worker.js"
+compatibility_date = "2024-10-01"
+
+[ai]
+binding = "AI"
